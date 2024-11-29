@@ -4,7 +4,6 @@ Hi 👋 My name is Lumeng Huang
 Machine Learning Engineer
 -------------------------
 
-With a solid foundation in machine learning and deep learning, combined with hands-on experience as a Machine Learning Engineer at Nexus Energy, I have developed and deployed predictive models to optimize resource management in the energy sector. I have utilized technologies such as Python, TensorFlow, and PyTorch to enhance forecasting and decision-making processes. Currently, I am pursuing a Master’s in Computer Science with a specialization in AI and Machine Learning from the Georgia Institute of Technology, and hold a Master’s in Geological Sciences. My strong publication record in high-impact journals underscores my expertise in computational research. Notable projects I have worked on include fine-tuning large language models, developing recommendation systems, and creating advanced computer vision applications.
 
 * 🌍  I'm based in San Francisco Bay Area, United States
 * ✉️  You can contact me at [lumeng.huang@gmail.com](mailto:lumeng.huang@gmail.com)
