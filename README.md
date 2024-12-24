@@ -1,4 +1,4 @@
-Hi 👋 My name is Lumeng Huang
+Hi 👋 My name is Valeria Huang
 =============================
 
 Machine Learning Engineer
@@ -6,7 +6,7 @@ Machine Learning Engineer
 
 
 * 🌍  I'm based in San Francisco Bay Area, United States
-* ✉️  You can contact me at [lumeng.huang@gmail.com](mailto:lumeng.huang@gmail.com)
+* ✉️  You can contact me at [valeria.lumeng.huang@gmail.com](mailto:valeria.lumeng.huang@gmail.com)
 
 ### Skills
 
